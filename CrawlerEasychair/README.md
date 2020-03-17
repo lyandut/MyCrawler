@@ -12,11 +12,11 @@
   
   对于每一个会议页面，爬取其所有字段，用到xpath，字典写入csv文件。
 
-- result_1
+- result_1/
 
   包括Acronym，link, name, location, deadline, start_date, topic (7个字段)。
 
-- result_2
+- result_2/
 
   具体每个会议页面的所有字段，但不完全包含result_1中的字段。
 
