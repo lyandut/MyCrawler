@@ -1,0 +1,24 @@
+Accounting and Finance	6
+Art and Literature	8
+Biological Sciences	11
+Business and Management  5
+Chemistry	         3
+Civil Engineering	23
+Computing	         1
+Earth and Environmental Sciences   12
+Economics	        15
+Education Science	16
+Energy	                17
+Engineering             2
+Genomics and Bioinformatics	13
+Health Sciences	          10
+Language and Linguistics   7
+Materials Science          14
+Mathematics and Statistics	19
+Mechanical Engineering	24
+Philosophy and Psychology	21
+Physics                      4
+Social Sciences	            9
+Sociology and Politics	22
+Space Science	20
+Technology      18
